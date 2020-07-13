@@ -67,20 +67,20 @@ count()
 test()
 end()
 ```
-
+# Here is how this bot works
     Hello! My name is Kek.
     I was created in 2020.
     Please, remind me your name.
-    Anya
+    > Anya
     What a great name you have, Anya!
     Let me guess your age.
     Enter remainders of dividing your age by 3, 5 and 7.
-    0
-    1
-    0
+    > 0
+    > 1
+    > 0
     Your age is 21; that's a good time to start programming!
     Now I will prove to you that I can count to any number you want.
-    3
+    > 3
     0 !
     1 !
     2 !
@@ -91,7 +91,7 @@ end()
     2. To decompose a program into several small subroutines.
     3. To determine the execution time of a program.
     4. To interrupt the execution of a program.
-    2
+    > 2
     Completed, have a nice day!
     I was glad to talk to you, have a nice day!
 
